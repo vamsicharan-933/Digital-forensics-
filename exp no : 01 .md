@@ -134,12 +134,20 @@ This helps ensure the integrity of the acquired forensic evidence.
 Verify Hash Values
   ↓
 Evidence Acquisition Completed
-<img width="470" height="355" alt="WhatsApp Image 2026-08-26 at 10 24 52 AM" src="https://github.com/user-attachments/assets/24d9f142-4e5a-46f9-8243-d5383f79feb6" />
-<img width="1313" height="1198" alt="WhatsApp Image 2026-08-26 at 10 43 46 AM" src="https://github.com/user-attachments/assets/c28a9b02-84af-42b5-99c7-7cbf35d7be19" />
-<img width="465" height="355" alt="WhatsApp Image 2026-08-26 at 10 24 50 AM (2)" src="https://github.com/user-attachments/assets/3d31e4b3-c6e9-4c15-8071-8e09c8bed25f" />
-<img width="395" height="347" alt="WhatsApp Image 2026-08-26 at 10 24 50 AM (1)" src="https://github.com/user-attachments/assets/2f7b3c68-d73a-4998-9aa3-63f9de403131" />
-<img width="575" height="426" alt="WhatsApp Image 2026-08-26 at 10 24 50 AM" src="https://github.com/user-attachments/assets/07ff6fb9-cbe4-4c75-a6be-78b9e02f5d8d" />
-<img width="585" height="428" alt="WhatsApp Image 2026-08-26 at 10 24 49 AM (1)" src="https://github.com/user-attachments/assets/e59499bb-2381-4b7d-8b53-8d3c69d88181" />
-<img width="1437" height="1094" alt="WhatsApp Image 2026-08-26 at 10 43 45 AM" src="https://github.com/user-attachments/assets/59c4b019-9a75-459c-a8f9-3f440897b1bf" />
-<img width="505" height="390" alt="WhatsApp Image 2026-08-26 at 10 24 49 AM" src="https://github.com/user-attachments/assets/6476262e-8638-423d-a433-2bbc897bd7ea" />
-<img width="500" height="472" alt="WhatsApp Image 2026-08-26 at 10 24 48 AM" src="https://github.com/user-attachments/assets/d90418de-5939-46b1-805f-e999b359ffed" />
+<img width="500" height="472" alt="WhatsApp Image 2026-08-26 at 10 24 48 AM" src="https://github.com/user-attachments/assets/dba6ebbb-876e-44cf-bb45-143919e1d9ea" />
+<img width="505" height="390" alt="WhatsApp Image 2026-08-26 at 10 24 49 AM" src="https://github.com/user-attachments/assets/78b92b34-ac8b-42b4-b08b-d7f89e37caa0" />
+<img width="1437" height="1094" alt="WhatsApp Image 2026-08-26 at 10 43 45 AM" src="https://github.com/user-attachments/assets/e52923b4-9e6e-4a4a-953f-aa82f0e0c3a4" />
+<img width="585" height="428" alt="WhatsApp Image 2026-08-26 at 10 24 49 AM (1)" src="https://github.com/user-attachments/assets/878191a3-fe71-498c-b012-f9169c971013" />
+<img width="575" height="426" alt="WhatsApp Image 2026-08-26 at 10 24 50 AM" src="https://github.com/user-attachments/assets/0e7b7201-74b6-4da4-80bd-d5f840bc8428" />
+<img width="395" height="347" alt="WhatsApp Image 2026-08-26 at 10 24 50 AM (1)" src="https://github.com/user-attachments/assets/b7dddbaa-6ed7-4a70-bb92-91fae488e2ec" />
+<img width="465" height="355" alt="WhatsApp Image 2026-08-26 at 10 24 50 AM (2)" src="https://github.com/user-attachments/assets/e55e7901-d229-4124-bf22-4d285e5f8ad2" />
+<img width="1313" height="1198" alt="WhatsApp Image 2026-08-26 at 10 43 46 AM" src="https://github.com/user-attachments/assets/5f3d3865-3ba2-4e47-8574-383f7abb3ff4" />
+<img width="470" height="355" alt="WhatsApp Image 2026-08-26 at 10 24 52 AM" src="https://github.com/user-attachments/assets/092e8d93-4795-4c37-8c25-bb417484a3b9" />
+
+
+
+
+
+
+
+
