@@ -66,7 +66,8 @@ The recovered file was saved as: recovered_excel.xls
 
 The istat command was used to analyze the metadata associated with the excel.xls file.
 
-<img width="1600" height="533" alt="screenshot Image 2026-09-22 at 10 52 47 PM" src="https://github.com/user-attachments/assets/51439eed-901e-48a7-b79c-733ef8561101" />
+<img width="1600" height="534" alt="screenshot" src="https://github.com/user-attachments/assets/d9e8e188-2fc8-4a4a-b4c1-62739eea984e" />
+
 
 
 
