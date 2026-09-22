@@ -28,7 +28,8 @@ The fsstat command was used to identify and analyze the file system present in t
 
 The output shows that the file system is NTFS and the image contains Windows XP file-system information.
 
-<img width="1376" height="1143" alt=" screenshot Sep 22, 2026, 08_26_58 PM" src="https://github.com/user-attachments/assets/97c3438e-8156-4795-9752-419929481a75" />
+<img width="1580" height="996" alt="screenshot Image 2026-09-22 at 10 59 23 PM" src="https://github.com/user-attachments/assets/96a2453c-2415-434d-8624-61c894ad76d9" />
+
 
 
 
@@ -38,7 +39,8 @@ The mmls command was used to identify the partition structure of the forensic di
 
 The output shows the DOS partition table and an NTFS/exFAT partition.
 
-<img width="1639" height="960" alt="screenshot Image Sep 22, 2026, 08_39_12 PM" src="https://github.com/user-attachments/assets/1e0e54c2-924e-44d9-ba8e-04b8120a6025" />
+<img width="1600" height="937" alt="screenshot Image 2026-09-22 at 10 52 48 PM" src="https://github.com/user-attachments/assets/f3b1846b-8896-41bf-9ec7-54192ce00bcf" />
+
 
 
 
@@ -64,7 +66,7 @@ The recovered file was saved as: recovered_excel.xls
 
 The istat command was used to analyze the metadata associated with the excel.xls file.
 
-<img width="2170" height="725" alt="screenshot Image Sep 22, 2026, 08_29_05 PM" src="https://github.com/user-attachments/assets/4843cc94-29f4-42d3-a2b0-6b8512ab31ec" />
+<img width="1600" height="533" alt="screenshot Image 2026-09-22 at 10 52 47 PM" src="https://github.com/user-attachments/assets/2ee70d4e-b456-4d45-80c8-4fc31664fa23" />
 
 
 
@@ -72,7 +74,7 @@ The istat command was used to analyze the metadata associated with the excel.xls
 
 The generated file_list.txt file was opened to examine the files and directories identified by Sleuth Kit.
 
-<img width="2170" height="725" alt="screenshot Image Sep 22, 2026, 08_35_01 PM" src="https://github.com/user-attachments/assets/7857940a-7612-4db6-be0c-d19e8f523e04" />
+
 
 
 
@@ -83,7 +85,8 @@ The experiment manual specifies timeline analysis as an optional step. A body fi
 
 The Sleuth Kit Windows package contains mactime.pl rather than mactime.exe. Perl was not available in the Windows environment, so the optional mactime timeline generation was not executed.
 
-<img width="1759" height="894" alt="screenshot Image Sep 22, 2026, 08_48_26 PM" src="https://github.com/user-attachments/assets/980aed7b-0c82-4a28-8dd5-61f7eab3be75" />
+<img width="1600" height="813" alt="screenshot Image 2026-09-22 at 7 43 07 PM" src="https://github.com/user-attachments/assets/e0a02700-c9a6-4097-92ad-31a364e587ce" />
+
 
 
 
