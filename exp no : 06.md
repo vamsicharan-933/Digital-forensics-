@@ -66,7 +66,8 @@ The recovered file was saved as: recovered_excel.xls
 
 The istat command was used to analyze the metadata associated with the excel.xls file.
 
-<img width="1600" height="533" alt="screenshot Image 2026-09-22 at 10 52 47 PM" src="https://github.com/user-attachments/assets/2ee70d4e-b456-4d45-80c8-4fc31664fa23" />
+<img width="1600" height="533" alt="screenshot Image 2026-09-22 at 10 52 47 PM" src="https://github.com/user-attachments/assets/51439eed-901e-48a7-b79c-733ef8561101" />
+
 
 
 
@@ -74,6 +75,7 @@ The istat command was used to analyze the metadata associated with the excel.xls
 
 The generated file_list.txt file was opened to examine the files and directories identified by Sleuth Kit.
 
+<img width="1600" height="533" alt="screenshot Image 2026-09-22 at 10 52 47 PM" src="https://github.com/user-attachments/assets/c3b7596c-ebb1-4ae7-8cee-d9314ec18d57" />
 
 
 
