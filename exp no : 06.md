@@ -72,7 +72,8 @@ The istat command was used to analyze the metadata associated with the excel.xls
 
 The generated file_list.txt file was opened to examine the files and directories identified by Sleuth Kit.
 
-<img width="2170" height="725" alt="screenshot Image Sep 22, 2026, 08_29_05 PM" src="https://github.com/user-attachments/assets/0f394f42-f05b-419e-805e-b75aa7888037" />
+<img width="2170" height="725" alt="screenshot Image Sep 22, 2026, 08_35_01 PM" src="https://github.com/user-attachments/assets/7857940a-7612-4db6-be0c-d19e8f523e04" />
+
 
 
 
@@ -82,7 +83,8 @@ The experiment manual specifies timeline analysis as an optional step. A body fi
 
 The Sleuth Kit Windows package contains mactime.pl rather than mactime.exe. Perl was not available in the Windows environment, so the optional mactime timeline generation was not executed.
 
-<img width="1759" height="894" alt="screenshot Image Sep 22, 2026, 08_48_26 PM" src="https://github.com/user-attachments/assets/932e316a-8a63-4c3d-8096-04e1743216c4" />
+<img width="1759" height="894" alt="screenshot Image Sep 22, 2026, 08_48_26 PM" src="https://github.com/user-attachments/assets/980aed7b-0c82-4a28-8dd5-61f7eab3be75" />
+
 
 
 
