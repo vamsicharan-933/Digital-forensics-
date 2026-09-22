@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="screenshot Image Sep 22, 2026, 09_38_39 PM" src="https://github.com/user-attachments/assets/e441fec5-3602-470e-ae91-98ab590bbb7d" />
+
 # Experiment 7 – Use AFLogical OSE to Extract Data from an Android Device
 
 ## Aim
@@ -69,8 +69,7 @@ Java was installed and verified on the computer.
 
 The installed Java environment was successfully detected and was ready for use with the Android forensic tools.
 
-<img width="2172" height="724" alt="screenshot<img width="2172" height="724" alt="ChatGPT Image Sep 22, 2026, 09_38_39 PM" src="https://github.com/user-attachments/assets/87b36340-ae02-4790-92c5-091af028e5ed" />
- Image Sep 22, 2026, 09_35_42 PM" src="https://github.com/user-attachments/assets/aea1e164-1f26-4e48-8f45-48e2909d0072" />
+<img width="2172" height="724" alt="screenshot Image Sep 22, 2026, 09_35_42 PM" src="https://github.com/user-attachments/assets/cbefccb0-3225-437e-af19-a82026cb26ca" />
 
 
 
