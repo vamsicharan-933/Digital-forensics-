@@ -284,8 +284,8 @@ Hashing provides a unique fingerprint for a file.
 
 # Step 21 — Hash Results
 
-<img width="1600" height="534" alt="screenshot" src="https://github.com/user-attachments/assets/7f79511d-b270-400a-b1fb-53b3fd8ce050" />
-<img width="1600" height="534" alt="screenshot" src="https://github.com/user-attachments/assets/fd5cc914-5416-4b4d-a713-7a3e990dd543" />
+<img width="837" height="105" alt="Screenshot 2026-09-24 111809" src="https://github.com/user-attachments/assets/9d58ca40-c38b-4677-a1e0-a93b022f2baf" />
+<img width="807" height="85" alt="Screenshot 2026-09-24 111739" src="https://github.com/user-attachments/assets/84367e7f-ce44-413f-82f9-8742a22e92ef" />
 
 # Step 24 — Result
 
